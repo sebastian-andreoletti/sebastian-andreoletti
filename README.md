@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sebastian Ezequiel Andreoletti
 - 👀 I work in IBM as Developer, in technologies such as: Openshift, IBM Cloud, Javascript ( Node.js & React.js )
-- 🌱 I’m currently learning Hybrid Cloud, Openshift, AWS
+- 🌱 I’m currently learning about Hybrid Cloud ( Openshift, AWS, IBM Cloud )
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 You can reach me at sebaeze@gmail.com   
 
